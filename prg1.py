@@ -1,4 +1,4 @@
-n=eval(input('enter theinput'))
+n=eval(input('enter theinput repository data'))
 for i in range(1,n+1):
 	for j in range(1,i+1):
 		print(i,' ')
